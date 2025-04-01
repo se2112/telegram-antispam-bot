@@ -49,6 +49,7 @@ telegram-antispam-bot/
 
 
 Вместе эти файлы формируют датасет для обучения модели
+
 │── filtered_spam_messages.csv # Пример спам-сообщений  
 │── not_spam_messages.csv   # Пример не спам сообщений 
 
