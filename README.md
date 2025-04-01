@@ -13,7 +13,7 @@
 ##  Установка и запуск
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/ВАШ_GITHUB/telegram-antispam-bot.git
+git clone https://github.com/se2112/telegram-antispam-bot.git
 cd telegram-antispam-bot
 ```
 
