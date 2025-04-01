@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.7.0
+torch==1.13.1
+transformers==4.27.0
+pandas==1.5.3
+
