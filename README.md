@@ -87,7 +87,9 @@ telegram-antispam-bot/
 Метрики обучения
 
 Epoch 1/3, Train Loss: 0.1032, Train Acc: 0.9634, Val Loss: 0.0480, Val Acc: 0.9856
+
 Epoch 2/3, Train Loss: 0.0302, Train Acc: 0.9909, Val Loss: 0.0420, Val Acc: 0.9869
+
 Epoch 3/3, Train Loss: 0.0211, Train Acc: 0.9940, Val Loss: 0.0547, Val Acc: 0.9861
 
 Проверка сообщения на спам
