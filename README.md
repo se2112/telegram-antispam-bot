@@ -47,6 +47,12 @@ telegram-antispam-bot/
 │── README.md               # Описание проекта  
 │── TRAINING.md             # Документация по обучению  
 
+
+Вместе эти файлы формируют датасет для обучения модели
+│── filtered_spam_messages.csv # Пример спам-сообщений  
+│── not_spam_messages.csv   # Пример не спам сообщений 
+
+
 Веса модели
 
 Так как GitHub не поддерживает файлы размером более 100 МБ, веса модели можно скачать с Google Диска: https://drive.google.com/file/d/1dZq_hpQv7Q9yQtDYy9cS-HPQbhwQy9Hs/view?usp=sharing  Скачать веса модели (Google Диск)После скачивания веса нужно разместить в корневой папке проекта. 
